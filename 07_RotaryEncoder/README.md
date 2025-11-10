@@ -39,5 +39,6 @@ Tujuan utama: membuktikan bahwa satu shared state encoder (via interrupt) bisa d
 
 
 ### Video Evidence
-Google Drive:https://drive.google.com/file/d/1n_WfHYYSAVmYpUDJg4wfcl8oEv27upDG/view?usp=sharing 
+Google Drive:
+https://drive.google.com/file/d/1n_WfHYYSAVmYpUDJg4wfcl8oEv27upDG/view?usp=sharing 
 
