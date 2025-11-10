@@ -20,7 +20,7 @@ Tujuan percobaan ini adalah membuktikan bahwa pembacaan ADC dapat dilakukan para
 | 3 | Perhatikan bahwa terdapat dua baris output yang muncul bergantian | Menunjukkan dua task berjalan secara paralel |
 | 4 | Pastikan ada tulisan `Running on CORE 0` dan `Running on CORE 1` di Serial Monitor | Membuktikan bahwa pembacaan potensiometer dilakukan dari dua core yang berbeda |
 
-## Evidence (Placeholder)
+## Image Evidence
 ### Core 0 Berjalan
 <img width="645" height="594" alt="Screenshot 2025-11-10 173813" src="https://github.com/user-attachments/assets/16ac6b1c-014b-41d7-9023-50d32b49e495" />
 
@@ -29,6 +29,6 @@ Tujuan percobaan ini adalah membuktikan bahwa pembacaan ADC dapat dilakukan para
 <img width="654" height="580" alt="Screenshot 2025-11-10 173858" src="https://github.com/user-attachments/assets/c5a9605b-bf0f-4dfc-ac09-225999dfc227" />
 
 
-## Video Evidence (Placeholder)
+## Video Evidence
 
 Google Drive:https://drive.google.com/file/d/1griWXNuP5i9lUc_42yXaRKwf_yiLlKCg/view?usp=sharing 
