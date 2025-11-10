@@ -29,10 +29,12 @@ Tujuan utama: membuktikan bahwa shared resource (servo) bisa stabil / smooth wal
 
 ## Image Evidence
 ### Core 0 Berjalan
-<img width="645" height="594" alt="Screenshot 2025-11-10 173813" src="https://github.com/user-attachments/assets/82d778bc-a119-4c11-ae13-502156b78b2f" />
+<img width="725" height="705" alt="Screenshot 2025-11-10 192907" src="https://github.com/user-attachments/assets/4a123462-aa93-4afc-8e3d-d1d92d16f1b8" />
+
 
 ### Core 1 Berjalan
-<img width="654" height="580" alt="Screenshot 2025-11-10 173858" src="https://github.com/user-attachments/assets/813102c9-bfd8-475b-a342-6b9dae69af1a" />
+<img width="724" height="696" alt="Screenshot 2025-11-10 192937" src="https://github.com/user-attachments/assets/10512d3c-1bf7-4800-889c-99cbb31ff3c6" />
+
 
 
 ## Video Evidence
