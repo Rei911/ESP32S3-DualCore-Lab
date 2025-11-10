@@ -28,12 +28,12 @@ Tujuan utama: membuktikan bahwa kedua core dapat menjalankan task berbeda secara
 |4	|Observe Serial Output	Ada tulisan “Core 0” dan “Core 1” → membuktikan task berjalan pada core berbeda|
 
 ## Image Evidence
-### 1. Core 1 berjalan 
+### 1. Core 0 berjalan 
 
 <img width="711" height="591" alt="Screenshot 2025-11-10 145803" src="https://github.com/user-attachments/assets/ee035afc-bf1b-4ce3-9b87-3a9967abbab9" />
 
 
-### 2. Core 2 berjalan 
+### 2. Core 1 berjalan 
 
 <img width="711" height="591" alt="Screenshot 2025-11-10 145803" src="https://github.com/user-attachments/assets/ee035afc-bf1b-4ce3-9b87-3a9967abbab9" />
 
