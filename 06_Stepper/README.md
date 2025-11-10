@@ -42,5 +42,6 @@ Tujuan utama: membuktikan bahwa dua core dapat mengakses hardware yang sama seca
 
 
 ## Video Evidence
-Google Drive:https://drive.google.com/file/d/1XfipWjuTFF7m_CiqFttfeVyyAULJF5o0/view?usp=sharing  
+Google Drive:
+https://drive.google.com/file/d/1XfipWjuTFF7m_CiqFttfeVyyAULJF5o0/view?usp=sharing  
 
