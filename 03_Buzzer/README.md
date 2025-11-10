@@ -1,4 +1,4 @@
-# 02 — Dual Core Buzzer Frequencies (ESP32-S3)
+# 03 — Dual Core Buzzer Frequencies (ESP32-S3)
 
 ## Description / Deskripsi
 
