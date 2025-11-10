@@ -22,3 +22,6 @@ Setiap eksperimen memiliki folder terpisah yang berisi:
 - Langkah percobaan
 - Evidence (gambar & video)
 - Program Arduino/FreeRTOS
+
+
+Simulasi Wiring Wokwi:https://wokwi.com/projects/447206591545559041
