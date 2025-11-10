@@ -28,7 +28,7 @@ Tujuan utama: membuktikan bahwa kedua core memproses event berbeda tanpa saling 
 | 4  | Tekan cepat berkali-kali | Tidak terjadi bouncing berlebih |
 | 5  | Perhatikan log per-core | “Core 0” log BUTTON1, “Core 1” log BUTTON2 |
 
-## Evidence Placeholder
+## Image Evidence 
 
 ### Core 0 berjalan → <img width="759" height="756" alt="Screenshot 2025-11-10 153758" src="https://github.com/user-attachments/assets/5fca37cb-7780-4094-a55d-eda307e98efe" />
 
