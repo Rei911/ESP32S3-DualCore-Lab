@@ -35,6 +35,7 @@ Tujuan utama: menunjukan visual evidence bahwa kedua core benar–benar execute 
 
 
 gambar menunjukkan log berbeda tiap core secara jelas
+
 LED blink pattern konsisten dan tidak jitter
 
 
