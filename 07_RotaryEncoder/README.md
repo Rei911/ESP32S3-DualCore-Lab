@@ -1,4 +1,4 @@
-# 02 — Dual Core Rotary Encoder Read (ESP32-S3)
+# 07 — Dual Core Rotary Encoder Read (ESP32-S3)
 
 ## Description / Deskripsi
 
@@ -28,13 +28,16 @@ Tujuan utama: membuktikan bahwa satu shared state encoder (via interrupt) bisa d
 | 4  | Observasi log Serial | Core 1 update lebih lambat (~700ms) |
 | 5  | Validasi 2 Core | Ada teks “CORE 0” & “CORE 1” → bukti task berjalan di core berbeda |
 
-## Evidence (Placeholder)
+## Image Evidence
 
-### 1. Core 0 Logging
-*(insert image here)*
+### 1. Core 0 Berjalan
+<img width="540" height="614" alt="Screenshot 2025-11-10 184433" src="https://github.com/user-attachments/assets/7447695f-75dc-4020-b4b6-d0c7e2f6f670" />
 
-### 2. Core 1 Logging
-*(insert image here)*
+
+### 2. Core 1 Berjalan
+<img width="536" height="603" alt="Screenshot 2025-11-10 184451" src="https://github.com/user-attachments/assets/062eb547-58c3-4bda-bde7-322be14babf5" />
+
 
 ### Video Evidence
-*(insert link video google drive disini)*
+Google Drive:https://drive.google.com/file/d/1n_WfHYYSAVmYpUDJg4wfcl8oEv27upDG/view?usp=sharing 
+
