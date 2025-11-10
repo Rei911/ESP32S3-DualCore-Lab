@@ -46,4 +46,5 @@ Tujuan utama: membuktikan bahwa sebuah task OLED dapat dihentikan dan dibuat ula
 
 
 ## Video Evidence
-Google Drive:https://drive.google.com/file/d/1_e1mSIqiEM98Ct8Bl3cE5V4Qv6MqbrGw/view?usp=sharing
+Google Drive:
+https://drive.google.com/file/d/1_e1mSIqiEM98Ct8Bl3cE5V4Qv6MqbrGw/view?usp=sharing
