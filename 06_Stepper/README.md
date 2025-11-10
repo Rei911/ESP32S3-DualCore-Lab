@@ -30,7 +30,7 @@ Tujuan utama: membuktikan bahwa dua core dapat mengakses hardware yang sama seca
 | 5 | Tekan kedua tombol bergantian | Log tetap teratur, tidak tabrakan mutex (arah tetap benar) |
 
 
-## Evidence / Catatan Bukti
+## Image Evidence
 
 ### Core 0 Berjalan
 <img width="1024" height="755" alt="Screenshot 2025-11-10 181022" src="https://github.com/user-attachments/assets/b1bc5c44-a813-4ca1-80e7-0e7184ca0e60" />
