@@ -33,9 +33,11 @@ Tujuan utama: membuktikan bahwa dua core dapat mengakses hardware yang sama seca
 ## Evidence / Catatan Bukti
 
 ### Core 0 Berjalan
+<img width="1024" height="755" alt="Screenshot 2025-11-10 181022" src="https://github.com/user-attachments/assets/b1bc5c44-a813-4ca1-80e7-0e7184ca0e60" />
 
 
 ### Core 1 Berjalan
+<img width="1028" height="737" alt="Screenshot 2025-11-10 181039" src="https://github.com/user-attachments/assets/b2893e12-f64c-4f85-9582-6620a7b345bb" />
 
 
 
