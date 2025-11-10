@@ -1,4 +1,4 @@
-# 01 — Dual Core Stepper Control + Mutex (ESP32-S3)
+# 06 — Dual Core Stepper Control + Mutex (ESP32-S3)
 
 ## Description / Deskripsi
 
