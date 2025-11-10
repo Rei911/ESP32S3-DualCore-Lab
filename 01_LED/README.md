@@ -1,5 +1,5 @@
 # 01 — Dual Core LED Blinking (ESP32-S3)
-## Description 
+## Description / Deskripsi 
 
 Percobaan ini menunjukkan proses LED blinking secara paralel pada dua core berbeda di ESP32-S3 menggunakan FreeRTOS Task.
 
