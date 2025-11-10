@@ -27,7 +27,7 @@ Tujuan utama: membuktikan bahwa shared resource (servo) bisa stabil / smooth wal
 | 5 | Tekan kedua tombol bergantian | Servo tetap bergerak halus & tidak bergetar (mutex sukses) |
 
 
-## Evidence (Placeholder)
+## Image Evidence
 ### Core 0 Berjalan
 <img width="645" height="594" alt="Screenshot 2025-11-10 173813" src="https://github.com/user-attachments/assets/82d778bc-a119-4c11-ae13-502156b78b2f" />
 
@@ -35,5 +35,5 @@ Tujuan utama: membuktikan bahwa shared resource (servo) bisa stabil / smooth wal
 <img width="654" height="580" alt="Screenshot 2025-11-10 173858" src="https://github.com/user-attachments/assets/813102c9-bfd8-475b-a342-6b9dae69af1a" />
 
 
-## Video Evidence (Placeholder)
+## Video Evidence
 Google Drive:https://drive.google.com/file/d/1pOgJQmETN8knPwIxAzU4KUDGmsnf0fhF/view?usp=sharing
