@@ -38,4 +38,5 @@ Tujuan utama: membuktikan bahwa shared resource (servo) bisa stabil / smooth wal
 
 
 ## Video Evidence
-Google Drive:https://drive.google.com/file/d/1pOgJQmETN8knPwIxAzU4KUDGmsnf0fhF/view?usp=sharing
+Google Drive:
+https://drive.google.com/file/d/1pOgJQmETN8knPwIxAzU4KUDGmsnf0fhF/view?usp=sharing
