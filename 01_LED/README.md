@@ -1,11 +1,15 @@
 # 01 — Dual Core LED Blinking (ESP32-S3)
 ## Description 
 
-This experiment demonstrates dual-core execution on ESP32-S3 using FreeRTOS.
-2 LED blink tasks berjalan paralel dan dipaksa jalan pada core berbeda:
-LED1 berjalan di Core 0
-LED2 berjalan di Core 1
-Tujuan utama: menunjukan visual evidence bahwa kedua core benar–benar execute independen.
+Percobaan ini menunjukkan proses LED blinking secara paralel pada dua core berbeda di ESP32-S3 menggunakan FreeRTOS Task.
+
+- LED1 dikendalikan oleh task yang berjalan pada **Core 0**  
+- LED2 dikendalikan oleh task yang berjalan pada **Core 1**  
+- Kedua task berjalan independen dengan interval kedip berbeda  
+- Tidak menggunakan loop() (seluruh logic berjalan pada task)
+
+Tujuan utama: membuktikan bahwa kedua core dapat menjalankan task berbeda secara simultan tanpa blocking, serta memberikan bukti visual bahwa eksekusi benar-benar paralel di kedua core.
+
 
 ## Hardware Mapping
 
