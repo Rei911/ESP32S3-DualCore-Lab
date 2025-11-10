@@ -27,7 +27,7 @@ Tujuan utama: membuktikan bahwa kedua core dapat menjalankan task berbeda secara
 |3	|Observe LED2	LED2 berkedip lebih lambat (~500ms)|
 |4	|Observe Serial Output	Ada tulisan “Core 0” dan “Core 1” → membuktikan task berjalan pada core berbeda|
 
-## Evidence / Catatan Bukti
+## Image Evidence
 ### 1. Core 1 berjalan 
 
 <img width="711" height="591" alt="Screenshot 2025-11-10 145803" src="https://github.com/user-attachments/assets/ee035afc-bf1b-4ce3-9b87-3a9967abbab9" />
