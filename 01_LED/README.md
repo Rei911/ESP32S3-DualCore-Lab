@@ -46,4 +46,9 @@ LED blink pattern konsisten dan tidak jitter
 ## Video Evidence
 
 Google Drive:
+
+![LED](https://github.com/user-attachments/assets/f7c4c1b9-030b-49f4-bcfe-2644a58e2c76)
+
+
 https://drive.google.com/file/d/1HoRDTLnAkrKF1bCPkEXxot8ThCFlIGAO/view?usp=sharing
+
