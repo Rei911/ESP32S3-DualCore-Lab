@@ -39,6 +39,5 @@ Tujuan utama: membuktikan bahwa kedua core memproses event berbeda tanpa saling 
 
 
 ## Video Evidence
+![Button](https://github.com/user-attachments/assets/b9b72b29-b671-4fbf-9ace-a2b906271b0d)
 
-Google Drive:
-https://drive.google.com/file/d/1-XxH-NLUAm_1-87Xlxk12dqir5M4JGrs/view?usp=sharing
