@@ -30,5 +30,5 @@ Tujuan percobaan ini adalah membuktikan bahwa pembacaan ADC dapat dilakukan para
 
 
 ## Video Evidence
-Google Drive:
-https://drive.google.com/file/d/1griWXNuP5i9lUc_42yXaRKwf_yiLlKCg/view?usp=sharing 
+![Potenti](https://github.com/user-attachments/assets/c625fb0a-7c75-4bc0-a373-e6118cee06bf)
+
