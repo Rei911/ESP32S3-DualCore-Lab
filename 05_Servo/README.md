@@ -38,5 +38,5 @@ Tujuan utama: membuktikan bahwa shared resource (servo) bisa stabil / smooth wal
 
 
 ## Video Evidence
-Google Drive:
-https://drive.google.com/file/d/1pOgJQmETN8knPwIxAzU4KUDGmsnf0fhF/view?usp=sharing
+![Servo](https://github.com/user-attachments/assets/fdb642d8-2244-4012-b5fb-da75064291e1)
+
