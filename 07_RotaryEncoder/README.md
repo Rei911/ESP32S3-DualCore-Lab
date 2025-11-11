@@ -39,6 +39,6 @@ Tujuan utama: membuktikan bahwa satu shared state encoder (via interrupt) bisa d
 
 
 ### Video Evidence
-Google Drive:
-https://drive.google.com/file/d/1n_WfHYYSAVmYpUDJg4wfcl8oEv27upDG/view?usp=sharing 
+![RotarEncod](https://github.com/user-attachments/assets/3033a6db-3bcf-4184-b9a6-f01e3b6fa444)
+
 
