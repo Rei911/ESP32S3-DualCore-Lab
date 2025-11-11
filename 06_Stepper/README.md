@@ -42,6 +42,6 @@ Tujuan utama: membuktikan bahwa dua core dapat mengakses hardware yang sama seca
 
 
 ## Video Evidence
-Google Drive:
-https://drive.google.com/file/d/1XfipWjuTFF7m_CiqFttfeVyyAULJF5o0/view?usp=sharing  
+![Stepper](https://github.com/user-attachments/assets/4e1cc8ca-7cc7-45c5-91a8-a330c9c6fb68)
+
 
