@@ -42,5 +42,5 @@ Tujuan: membuktikan bahwa eksekusi task audio dapat berjalan independen pada mas
 
 
 ## Video Evidence
-Google Drive:
-https://drive.google.com/file/d/1O3b9X_cQ2tMYb1RA_qBvV-9hCD8CBsBN/view?usp=sharing
+![Buzzer](https://github.com/user-attachments/assets/0296f210-ccef-4072-8030-0759272add53)
+
